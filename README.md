@@ -1,8 +1,12 @@
 # Beverage-Warehouse
 Small program to create a beverage warehouse using Object Oriented Programming (OPP).
+
   • Types of drinks: water and soda
+  
   • Drinks characteristics: id, quantity, price, mark, birthplace, %sugar, promotion
+  
   • Functions: add drink, delete drink, show drinks, calculate price (based on total, same mark or warehouse column)
+  
 
 # Output example
 ![image](https://github.com/lgomezruiz/Beverage-Warehouse/assets/97950503/2a0f8845-af54-4528-928c-31cf1e96675b)
